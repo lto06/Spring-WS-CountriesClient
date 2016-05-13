@@ -1,0 +1,9 @@
+logging:
+  level:
+    com.springws.countries: INFO
+    org:
+      springframework:
+        ws: DEBUG
+
+server:
+    port: 9000
